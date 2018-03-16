@@ -10,4 +10,5 @@ Template from W3.CSS
 - Yvonne P. Reyes <panganibanyvonne.yp@gmail.com>
 
 ## License & Copyright
-&copy; Yvonne P. Reyes, an aspiring Web Developer / Designer
+&copy; Yvonne P. Reyes, an aspiring Web Developer / Designer 
+&copy; Template from W3.CSS
