@@ -11,6 +11,8 @@ html {
 }
 
 
+
+
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
 
 html {
@@ -220,6 +222,8 @@ textarea {
     -webkit-appearance: button;
     font: inherit
 }
+
+
 
 
 /* End extract */
@@ -1423,6 +1427,8 @@ a {
 }
 
 
+
+
 /* Colors */
 
 .w3-amber,
@@ -1544,7 +1550,7 @@ a {
 .w3-teal,
 .w3-hover-teal:hover {
     color: #fff!important;
-    background-color: #009688!important
+    background-color: #656161;
 }
 
 .w3-yellow,
@@ -1712,7 +1718,7 @@ a {
 
 .w3-text-teal,
 .w3-hover-text-teal:hover {
-    color: #009688!important
+    color: #656161!important;
 }
 
 .w3-text-yellow,
